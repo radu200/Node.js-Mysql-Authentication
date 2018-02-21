@@ -1,8 +1,7 @@
-# Complete Guide to Node Authentication with MySQL
+#  Node.js, Mysql Authentication with Multiple Types of Users
 
 
 
-Code for the entire scotch.io tutorial series: Complete Guide to Node Authentication with MongoDB
 
 Current version database is ported to MySQL
 
@@ -20,4 +19,4 @@ If you would like to download the code and try it for yourself:
 1. Visit in your browser at: `http://localhost:8080`
 
 
-Licence: 1
+
